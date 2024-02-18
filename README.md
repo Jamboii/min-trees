@@ -1,4 +1,4 @@
-# Simple Saplings
+# Min Trees
 
 This repository contains some from-scratch builds of decision-tree-based models, starting from the standard Decision Tree, working up to XGBoost (and potentially beyond). For the sake of educational purposes, the implementations of each model will be as close to Minimum Viable Product (MVP) as possible.
 
